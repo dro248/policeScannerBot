@@ -1,0 +1,1 @@
+sh stream_recorder.sh -s http://relay.broadcastify.com/7sth0nfg9y5pcjq.mp3 -d out.mp3
